@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_CreapsFPS/Scenes/MainMenu.unity
+    guid: 4f1b35232f7796942b0d19ad98774cf8
+  - enabled: 1
+    path: Assets/_CreapsFPS/Scenes/Gameplay.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: d3bd3fc19f230fb468b8b1e756e32a2f,
+      type: 2}

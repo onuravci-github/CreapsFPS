@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  m_GroupName: Player
+  m_Data:
+    m_SerializedData: []
+  m_GUID: aabc44f38c315e34d8cb7f22376b3136
+  m_SerializeEntries:
+  - m_GUID: 291e569ad38d8cd439f07001749ced35
+    m_Address: Player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 842373a2f42ba9941a234f7ad1d70881
+    m_Address: C4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9990ffbaa404e7246be059b0a70b4b91
+    m_Address: Deagle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd39e41ea0ace434fa00adb25f8010ab
+    m_Address: Pistol
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7bdc12355e08bdb40ba81e7eb70fcc7c
+    m_Address: Rifle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: cf19100846250e34896df8dd41d0664d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 20f5cbb35eb525642b7cef69b64042e4, type: 2}
+    - {fileID: 11400000, guid: 799b4f07a31bb5e41a22dcc1c15d9340, type: 2}

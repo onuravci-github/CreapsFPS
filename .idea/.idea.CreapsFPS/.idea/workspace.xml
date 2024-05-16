@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc3aa6db-7b9e-4642-95ee-4a102e4f8b18" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CreapsFPS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CreapsFPS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/Android/addressables_content_state.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/Android/addressables_content_state.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/Windows/addressables_content_state.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/Windows/addressables_content_state.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/a017e354f3154926a5617fbac3a64fcc80f800/49/fd7dbf6e/Editor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.8.6/Samples~/Cinemachine Example Scenes/Scenes/Anywhere Door/PlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../a/Assets/Scripts/Network/ScoreManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/602e1cb430e34c21b04b6ecf1f67d1a186400/04/fab09ba3/SimulationBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Tests/Runtime/MaskClipping/RectMask2DClipping.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/602e1cb430e34c21b04b6ecf1f67d1a186400/61/af3f5283/HitboxManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/602e1cb430e34c21b04b6ecf1f67d1a186400/fe/98f54161/StartGameResult.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/42/System.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.burst@1.6.5/Tests/Runtime/Shared/090-Vectors-Indexers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../a/Assets/Scripts/Network/MainMenuManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../a/Assets/Scripts/Network/NetworkInputData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/602e1cb430e34c21b04b6ecf1f67d1a186400/47/aee79d4b/SessionInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/UI/UIBulletType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/Utils/NetworkSingleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.scriptablebuildpipeline@1.19.6/Tests/Editor/ScriptableBuildPipelineTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/602e1cb430e34c21b04b6ecf1f67d1a186400/27/a4bce220/NetworkPrefabRef.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../a/Assets/Scripts/Network/InputHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/602e1cb430e34c21b04b6ecf1f67d1a186400/4e/17a3976d/Simulation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../a/Assets/Scripts/Network/NetworkPlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../a/Assets/Scripts/Network/Gun.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../a/Assets/Scripts/Network/CharacterInputHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/UI/UIMainMenuManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/40205bb2cb25478a9cb0f5e54cf11441157400/5a/8c696f0a/Gizmos.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.6.4/Samples~/Customization/Annotation/Editor/AnnotationMarkerEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Gitlab/SurvivorAndZombies/Assets/Spine/Runtime/spine-unity/Asset Types/SkeletonDataCompatibility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.8.6/Samples~/Cinemachine Example Scenes/Shared/Models/UnityCharacter/Scripts/CharacterMovement2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@12.1.6/Tests/Runtime/Light2DTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.addressables@1.19.19/Tests/Runtime/LegacyResourceTests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/_Player/PlayerCameraControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/_Player/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/Enums/JoystickEnums.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/602e1cb430e34c21b04b6ecf1f67d1a186400/8d/a8cef4fc/RpcTargets.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/_Player/PlayerMovementControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/41/System.Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/_Player/PlayerGunsControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/602e1cb430e34c21b04b6ecf1f67d1a186400/72/71a5336e/RpcSources.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/Utils/NetworkSceneSingleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6073cf49ed704e958b8a66d540dea94846a800/bb/fcc2bbed/AsyncMethodBuilderCore.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/UI/UIPlayerScore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/602e1cb430e34c21b04b6ecf1f67d1a186400/a4/de18b976/INetworkRunnerCallbacks.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/602e1cb430e34c21b04b6ecf1f67d1a186400/52/976b1e12/PlayerRef.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Gitlab/SurvivorAndZombies/Assets/_MadRaid/Scripts/System/PlayerPrefsManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/602e1cb430e34c21b04b6ecf1f67d1a186400/a0/4551f237/LagCompensatedHit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/JoystickController/Script/Joystick Types/Selectable Josticks/PlayerGunSelect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.burst@1.6.5/Tests/Runtime/Shared/StaticDelegateRegistry.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/JoystickController/Script/Joystick Types/Selectable Josticks/BulletSizeSelect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/602e1cb430e34c21b04b6ecf1f67d1a186400/10/3e763d13/NetworkInput.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/66/37794570/Action`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/602e1cb430e34c21b04b6ecf1f67d1a186400/a8/c4dda624/SceneRef.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.6.4/Samples~/GameplaySequenceDemo/Info/Scripts/Readme.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/JoystickController/Script/Joystick Types/AttackJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Gitlab/SurvivorAndZombies/Assets/_MadRaid/Modules/Map Generator/Scripts/MapSourceControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.8.6/Samples~/Cinemachine Example Scenes/Shared/Scripts/PlayerMove.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/Enums/PlayerEnums.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.cinemachine@2.8.6/Samples~/Cinemachine Example Scenes/Shared/Scripts/PlayerMovePhysics.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/JoystickController/Script/Joystick Types/TapJoystick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/Network Sytem/Fusion/NetworkInputdata.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/Managers/PlayerPrefsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/602e1cb430e34c21b04b6ecf1f67d1a186400/d4/fc8b2aa3/NetworkRunner.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2Dl4coSK15kb0rO0Nz06SiHZBau" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.40730932" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.4324587" />
+    <property name="nodejs.protractor.protractor_package" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$USER_HOME$/Desktop/CreapsFPS\CreapsFPS.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\onur\Desktop\CreapsFPS" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="SwaggerCodegen">
+      <option name="activeConfigurationType" value="FILE" />
+      <option name="configurationPath" value="" />
+      <option name="customJreEnabled" value="false" />
+      <option name="customTemplatesPath" value="" />
+      <option name="enableDebugLogging" value="false" />
+      <option name="generateToPath" value="" />
+      <option name="generationParameters">
+        <list />
+      </option>
+      <option name="generatorPath" value="" />
+      <option name="jdkPath" value="Default" />
+      <option name="language" value="" />
+      <option name="specificationPath" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="38952">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="38952" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc3aa6db-7b9e-4642-95ee-4a102e4f8b18" name="Changes" comment="" />
+      <created>1661260423321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661260423321</updated>
+      <workItem from="1661260425561" duration="6032000" />
+      <workItem from="1661317839019" duration="5404000" />
+      <workItem from="1661323964637" duration="2097000" />
+      <workItem from="1661329611181" duration="15293000" />
+      <workItem from="1661405213904" duration="21391000" />
+      <workItem from="1661492232173" duration="28008000" />
+      <workItem from="1661539349218" duration="29360000" />
+      <workItem from="1661687898873" duration="6044000" />
+      <workItem from="1661695774024" duration="26272000" />
+      <workItem from="1661747864614" duration="25834000" />
+      <workItem from="1661779960307" duration="1649000" />
+      <workItem from="1661801879108" duration="3024000" />
+      <workItem from="1661836635043" duration="30537000" />
+      <workItem from="1661945626495" duration="49000" />
+      <workItem from="1661946004363" duration="1517000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_CreapsFPS/Scripts/_Player/PlayerGunsControl.cs</url>
+          <line>140</line>
+          <properties documentPath="C:\Users\onur\Documents\CreapsGame\CreapsFPS\Assets\_CreapsFPS\Scripts\_Player\PlayerGunsControl.cs" initialLine="140" containingFunctionPresentation="method 'SetGunFeature'">
+            <startOffsets>
+              <option value="4565" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4637" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
